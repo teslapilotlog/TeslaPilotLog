@@ -1,4 +1,4 @@
-## Detailed instrutions (v 0.1)
+## Detailed instructions (v 0.1)
 
 ### Start a new trip
 
